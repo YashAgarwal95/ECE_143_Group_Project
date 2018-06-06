@@ -9,7 +9,7 @@ __
 The file primary.csv is the same one that is created when Extracting Non-Country Region Based Data, Plotting bar and dot graphs is run using the EdStatsData.csv file.
 
 Please ensure you download the following dependencies.__
-We use__
+We use <br/>
 numpy__
 pandas__
 matplotlib__
